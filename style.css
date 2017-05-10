@@ -1,0 +1,98 @@
+table {
+    border: 2px solid green;
+    border-collapse: collapse;
+    margin: auto;
+}
+td {
+    border: 5px solid green;
+    background: black;
+    color: red;
+    font-size: 18px;
+    width: 150px;
+    height: 135px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+a:link {
+    color: pink;
+}
+.wine:hover {
+    background: 
+    -30px -40px url(images/fruit.jpg);
+}
+.wine:hover a, .orange:hover a, .banan:hover a, 
+.apple:hover a, .limon:hover a, .cherry:hover a,
+.sliva:hover a, .winograd:hover a, .arbuz:hover a,
+.grusha:hover a, .chernika:hover a, .abrikos:hover a,
+.ayva:hover a, .eghevika:hover a, .malina:hover a,
+.strawberry:hover a {
+    display: none;
+}
+.orange:hover {
+    background: 
+    450px -40px url(images/fruit.jpg);
+}
+.banan:hover {
+    background: 
+    295px -40px url(images/fruit.jpg);
+}
+.apple:hover {
+    background: 
+    165px -35px url(images/fruit.jpg);
+}
+.limon:hover {
+    background: 
+    -30px -185px url(images/fruit.jpg);
+}
+.cherry:hover {
+    background: 
+    455px -175px url(images/fruit.jpg);
+}
+.sliva:hover {
+    background: 
+    300px -175px url(images/fruit.jpg);
+}
+.winograd:hover {
+    background: 
+    165px -185px url(images/fruit.jpg);
+}
+.arbuz:hover {
+    background: 
+    -33px -310px url(images/fruit.jpg);
+}
+.grusha:hover {
+    background: 
+    440px -320px url(images/fruit.jpg) ;
+}
+.chernika:hover {
+    background: 
+    295px -320px url(images/fruit.jpg);
+}
+.abrikos:hover {
+    background: 
+    160px -320px url(images/fruit.jpg);
+}
+.ayva:hover {
+    background: 
+    -30px -460px url(images/fruit.jpg);
+}
+.eghevika:hover {
+    background: 
+    442px -460px url(images/fruit.jpg) ;
+}
+.malina:hover {
+    background: 
+    290px -460px url(images/fruit.jpg);
+}
+.strawberry:hover {
+    background: 
+    160px -460px url(images/fruit.jpg);
+}
+section {
+    text-align: center;
+    color: blue;
+    margin: 20px;
+    font-size: 24px;
+}
